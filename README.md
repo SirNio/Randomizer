@@ -1,5 +1,4 @@
 # Randomizer
-Initial Commit
-IT's the OUTPUT of RANDOM NUMBER
-depending on the decideable SCALE
-you choose
+An output of random number
+based on a decideable SCALE
+of numbers, you choose
